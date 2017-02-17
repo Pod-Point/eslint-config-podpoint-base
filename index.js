@@ -17,7 +17,6 @@ module.exports = {
         "arrow-parens": [2, "as-needed"]
     },
     "plugins": [
-        "react",
         "jsx-a11y",
         "import"
     ],
