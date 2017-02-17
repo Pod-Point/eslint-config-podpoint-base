@@ -1,12 +1,12 @@
 {
-  "name": "@pod-point/eslint-config-podpoint",
-  "version": "0.1.2",
+  "name": "@pod-point/eslint-config-podpoint-base",
+  "version": "0.1.0",
   "description": "Global ESLint config",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pod-Point/eslint-config-podpoint.git"
+    "url": "git+https://github.com/Pod-Point/eslint-config-podpoint-base.git"
   },
   "author": "POD Point Software Team <software@pod-point.com>",
   "peerDependencies": {
