@@ -1,4 +1,4 @@
-{
+module.exports = {
     "parser": "babel-eslint",
     "extends": "airbnb",
     "env":{
@@ -24,4 +24,4 @@
     "resolve": {
         "extensions": ["", ".js", ".jsx"]
     }
-}
+};
