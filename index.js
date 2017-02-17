@@ -1,6 +1,6 @@
 module.exports = {
     "parser": "babel-eslint",
-    "extends": "airbnb",
+    "extends": "airbnb-base",
     "env":{
         "browser": true,
         "node": true,
@@ -8,12 +8,7 @@ module.exports = {
     },
     "rules": {
         "max-len": [2, 120],
-        "react/jsx-indent": [2, 4],
-        "react/jsx-indent-props": [2, 4],
         "indent": [2, 4, { "SwitchCase": 1, "VariableDeclarator": 1, "outerIIFEBody": 1 }],
-        "react/require-extension": "off",
-        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-        "react/jsx-curly-spacing": [2, "always"],
         "arrow-parens": [2, "as-needed"]
     },
     "plugins": [
