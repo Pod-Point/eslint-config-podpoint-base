@@ -11,6 +11,6 @@
   "author": "POD Point Software Team <software@pod-point.com>",
   "peerDependencies": {
     "eslint": ">= 3",
-    "eslint-plugin-import": "^1.14.0"
+    "eslint-plugin-import": "latest"
   }
 }
