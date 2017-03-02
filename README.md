@@ -4,6 +4,22 @@ The base configuration for [ESLint](http://eslint.org), to be included in every 
 
 ## Installation
 
+Install dependencies:
+
 ```
 npm install --save-dev eslint eslint-plugin-import pod-point/eslint-config-podpoint-base
 ```
+
+Create an `eslint.json` file with the following contents:
+
+```json
+{
+  "extends": "@pod-point/eslint-config-podpoint-base",
+}
+```
+
+Create an `.eslintignore` file with the following contents:
+
+```
+node_modules
+````
