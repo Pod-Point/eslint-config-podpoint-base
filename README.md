@@ -10,7 +10,7 @@ Install dependencies:
 npm install --save-dev eslint eslint-plugin-import pod-point/eslint-config-podpoint-base
 ```
 
-Create an `eslint.json` file with the following contents:
+Create an `.eslintrc.json` file with the following contents:
 
 ```json
 {
