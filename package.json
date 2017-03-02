@@ -10,12 +10,8 @@
   },
   "author": "POD Point Software Team <software@pod-point.com>",
   "peerDependencies": {
-    "eslint": ">= 3",
-    "eslint-plugin-import": "^2.2.0"
-  },
-  "devDependencies": {
     "babel-eslint": "^7.1.1",
-    "eslint": "^3.16.1",
+    "eslint": ">= 3",
     "eslint-config-airbnb-base": "^11.1.0",
     "eslint-plugin-import": "^2.2.0"
   }

@@ -7,7 +7,7 @@ The base configuration for [ESLint](http://eslint.org), to be included in every 
 Install dependencies:
 
 ```
-npm install --save-dev pod-point/eslint-config-podpoint-base
+npm install --save-dev babel-eslint eslint eslint-config-airbnb-base eslint-plugin-import pod-point/eslint-config-podpoint-base
 ```
 
 Create an `.eslintrc.json` file with the following contents:
