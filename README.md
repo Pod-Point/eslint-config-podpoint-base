@@ -14,7 +14,7 @@ Create an `.eslintrc.json` file with the following contents:
 
 ```json
 {
-  "extends": "@pod-point/eslint-config-podpoint-base",
+  "extends": "@pod-point/eslint-config-podpoint-base"
 }
 ```
 
