@@ -1,6 +1,6 @@
 {
   "name": "@pod-point/eslint-config-podpoint-base",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Global ESLint config",
   "main": "index.js",
   "scripts": {},
@@ -13,6 +13,8 @@
     "babel-eslint": "^7.1.1",
     "eslint": ">= 3",
     "eslint-config-airbnb-base": "^11.1.0",
-    "eslint-plugin-import": "^2.2.0"
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.0.1"
   }
 }
