@@ -13,8 +13,5 @@ module.exports = {
     },
     "plugins": [
         "import"
-    ],
-    "resolve": {
-        "extensions": ["", ".js", ".jsx"]
-    }
+    ]
 };
