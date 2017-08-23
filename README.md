@@ -1,4 +1,5 @@
 # eslint-config-podpoint-base
+[![npm](https://img.shields.io/npm/v/@pod-point/eslint-config-podpoint-base.svg)](https://www.npmjs.com/package/@pod-point/eslint-config-podpoint-base)
 
 The base configuration for [ESLint](http://eslint.org), to be included in every JavaScript project.
 
