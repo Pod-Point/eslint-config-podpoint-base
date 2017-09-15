@@ -7,7 +7,7 @@ module.exports = {
         jest: true
     },
     rules: {
-        'max-len': [2, 120],
+        'max-len': [2, 170],
         indent: [2, 4, {
             SwitchCase: 1,
             VariableDeclarator: 1,
