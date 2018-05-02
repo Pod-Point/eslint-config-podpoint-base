@@ -1,6 +1,6 @@
 {
   "name": "@pod-point/eslint-config-podpoint-base",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "description": "Global ESLint config",
   "main": "index.js",
   "scripts": {

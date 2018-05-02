@@ -14,6 +14,13 @@ module.exports = {
             outerIIFEBody: 1
         }],
         'arrow-parens': [2, 'as-needed'],
+        "comma-dangle": ["error", {
+            arrays: "always-multiline",
+            objects: "always-multiline",
+            imports: "always-multiline",
+            exports: "always-multiline",
+            functions: "ignore"
+        }],
         'valid-jsdoc': [1, {
             matchDescription: '[.]$',
             requireParamDescription: false,
