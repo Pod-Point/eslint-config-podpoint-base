@@ -1,6 +1,7 @@
 {
   "name": "@pod-point/eslint-config-podpoint-base",
-  "version": "0.1.10",
+  "version": "0.2.0",
+  "license": "UNLICENSED",
   "description": "Global ESLint config",
   "main": "index.js",
   "scripts": {
@@ -10,14 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/Pod-Point/eslint-config-podpoint-base.git"
   },
-  "author": "POD Point Software Team <software@pod-point.com>",
+  "author": "Pod Point Software Team <software@pod-point.com>",
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "babel-eslint": "^7.1.1",
-    "eslint": ">= 3",
-    "eslint-config-airbnb-base": "^11.1.0",
-    "eslint-plugin-import": "^2.2.0"
+    "babel-eslint": "^10.x",
+    "eslint": "^5.x",
+    "eslint-config-airbnb-base": "^13.x",
+    "eslint-plugin-import": "^2.x"
   }
 }
